@@ -73,5 +73,3 @@ Despite the progress, generated captions can still be unoriginal or lack creativ
 1. Step-by-Step Guide to Build Image Caption Generator Using Deep Learning - Analytics Vidhya
 2. Using Machine Learning to Generate Captions for Images - Towards Data Science
 3. A Comprehensive Survey of Deep Learning for Image Captioning - Murdoch University
-
-This README provides an overview of the project structure, process, and future improvements for image captioning using machine learning techniques.
